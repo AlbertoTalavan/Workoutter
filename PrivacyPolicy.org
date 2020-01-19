@@ -1,10 +1,11 @@
-Workoutter iOS app by Alberto Talaván
+* Privacy Policy for Workoutter iOS app
 
-Privacy Policy:
 Workoutter does not collect nor store any personal information data from its users.
 
-Your Consent:
+*Your Consent:*
+
 By using my app, you consent to my privacy policy.
 
-Contacting Us:
+*Contacting Us:*
+
 If you have questions regarding this privacy policy, you may email albertotalavan@gmail.com
