@@ -25,9 +25,11 @@ If you are not into make your own ones, you can transcribe the routines that you
 Workoutter is my very own vision of how to organise my workouts, but you will soon realise that it is super **easy  
 to create your routines  and/or modifying them**.
 
-But if you have a different way of do it, do not hesitate to contact me because I am always open to suggestions.  
-![twitter logo](/Assets/twitter_ios_logo.png)  **@AlbertoTalavan**  
-
-![mail logo](/Assets/mail_squared_logo.png)  ***albertotalavan@gmail.com***  
+But if you have a different way of do it, do not hesitate to contact me because I am always open to suggestions.
 
 ***Hope you enjoy the app, and if you do please leave a comment (I do appreciate it and it is really helpful).***
+
+
+![twitter logo](/Assets/twitter_ios_logo.png)  [**@AlbertoTalavan**](https://twitter.com/albertotalavan)  
+![mail logo](/Assets/mail_squared_logo.png)  ***albertotalavan@gmail.com***  
+
