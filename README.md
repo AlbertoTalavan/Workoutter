@@ -1,6 +1,8 @@
 # Workoutter: Take your workouts with you
 
-![Workoutter logo](/logo4GH.png)
+![Workoutter logo](/Assets/logo4GH.png)
+![gif light](/Assets/iPhoneXR-light.gif)"iPhone preview LIGHT mode"
+![gif dark](/Assets/iPhoneXR-light.dark)"iPhone preview DARK mode"
 
 ![iOS 13.0](https://img.shields.io/badge/iOS-13.0-orange)
 ![swift 5](https://img.shields.io/badge/swift-5-red)
@@ -22,8 +24,8 @@ Workoutter is my very own vision of how to organise my workouts, but you will so
 to create your routines  and/or modifying them**.
 
 But if you have a different way of do it, do not hesitate to contact me because I am always open to suggestions.  
-![twitter logo](/twitter_ios_logo.png)"@AlbertoTalavan"  
+![twitter logo](/Assets/twitter_ios_logo.png)"@AlbertoTalavan"  
 
-![mail logo](/mail_squared_logo.png)"albertotalavan@gmail.com"  
+![mail logo](/Assets/mail_squared_logo.png)"albertotalavan@gmail.com"  
 
 ***Hope you enjoy the app, and if you do please leave a comment (I do appreciate it and it is really helpful).***
