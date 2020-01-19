@@ -1,11 +1,13 @@
 # Workoutter: Take your workouts with you
 
-![Workoutter logo](/Assets/logo4GH.png)
-![gif light](/Assets/iPhoneXR-light.gif)"iPhone preview LIGHT mode"
-![gif dark](/Assets/iPhoneXR-light.dark)"iPhone preview DARK mode"
+
+![gif light](/Assets/Gif/iPhoneXR-light.gif "iPhone preview LIGHT mode")
+![gif dark](/Assets/Gif/iPhoneXR-dark.gif "iPhone preview DARK mode")
 
 ![iOS 13.0](https://img.shields.io/badge/iOS-13.0-orange)
-![swift 5](https://img.shields.io/badge/swift-5-red)
+![swift 5](https://img.shields.io/badge/Swift-5-red)
+![EN](https://img.shields.io/badge/Localizable-es-blue)
+![ES](https://img.shields.io/badge/Localizable-en-blue)
 
 I usually work out and **I was certainly  tired of writing my own workouts (routines, weights...)
 on multiple notes ...** and that´s why I made my own workout tracker app, "Workoutter", just to  
