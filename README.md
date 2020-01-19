@@ -22,7 +22,8 @@ Workoutter is my very own vision of how to organise my workouts, but you will so
 to create your routines  and/or modifying them**.
 
 But if you have a different way of do it, do not hesitate to contact me because I am always open to suggestions.  
-![logo twitter](https://twitter.com/albertotalavan)"@AlbertoTalav
-![logo mail](mailto:albertotalavan@gmail.com?subject=[GitHub]%20Source%20Han%20Sans
+![twitter logo](/twitter_ios_logo.png)"@AlbertoTalavan"  
+
+![mail logo](/mail_squared_logo.png)"albertotalavan@gmail.com"  
 
 ***Hope you enjoy the app, and if you do please leave a comment (I do appreciate it and it is really helpful).***
