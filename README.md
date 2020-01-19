@@ -1,5 +1,10 @@
 # Workoutter: Take your workouts with you
 
+![Workoutter logo](/logo4GH.png)
+
+![iOS 13.0](https://img.shields.io/badge/iOS-13.0-orange)
+![swift 5](https://img.shields.io/badge/swift-5-red)
+
 I usually work out and **I was certainly  tired of writing my own workouts (routines, weights...)
 on multiple notes ...** and that´s why I made my own workout tracker app, "Workoutter", just to  
 keep them handy and organised in just one place.
@@ -16,6 +21,8 @@ If you are not into make your own ones, you can transcribe the routines that you
 Workoutter is my very own vision of how to organise my workouts, but you will soon realise that it is super **easy  
 to create your routines  and/or modifying them**.
 
-But if you have a different way of do it, do not hesitate to contact me because I am always open to suggestions.
+But if you have a different way of do it, do not hesitate to contact me because I am always open to suggestions.  
+![logo twitter](https://twitter.com/albertotalavan)"@AlbertoTalav
+![logo mail](mailto:albertotalavan@gmail.com?subject=[GitHub]%20Source%20Han%20Sans
 
 ***Hope you enjoy the app, and if you do please leave a comment (I do appreciate it and it is really helpful).***
