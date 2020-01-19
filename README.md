@@ -1,8 +1,8 @@
 # Workoutter: Take your workouts with you
 
 
-![gif light](/Assets/Gif/iPhoneXR-light.gif "iPhone preview LIGHT mode")
-![gif dark](/Assets/Gif/iPhoneXR-dark.gif "iPhone preview DARK mode")
+![gif light](/Assets/Gif/iPhoneXR-light.gif)
+![gif dark](/Assets/Gif/iPhoneXR-dark.gif)
 
 ![iOS 13.0](https://img.shields.io/badge/iOS-13.0-orange)
 ![swift 5](https://img.shields.io/badge/Swift-5-red)
