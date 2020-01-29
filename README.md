@@ -33,4 +33,4 @@ But if you have a different way of do it, do not hesitate to contact me because 
 ![twitter logo](/Assets/twitter_ios_logo.png)  [**@AlbertoTalavan**](https://twitter.com/albertotalavan)  
 ![mail logo](/Assets/mail_squared_logo.png)  ***albertotalavan@gmail.com***  
 
-![AppleBadgeBlackEN](/Assets/AppleStoreBlackEN.png "Workoutter on the Apple Store")
+![AppleBadgeBlackEN](/Assets/AppleStoreBlackEN.png https://apps.apple.com/us/app/workoutter/id1495092491?ls=1 "Workoutter on the Apple Store")
