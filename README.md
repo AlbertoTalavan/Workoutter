@@ -27,9 +27,10 @@ to create your routines  and/or modifying them**.
 
 But if you have a different way of do it, do not hesitate to contact me because I am always open to suggestions.
 
-***Hope you enjoy the app, and if you do please leave a comment (I do appreciate it and it is really helpful).***
+***Hope you enjoy the app!. And if you do, please leave a comment (I do appreciate it and it is really helpful).***
 
 
 ![twitter logo](/Assets/twitter_ios_logo.png)  [**@AlbertoTalavan**](https://twitter.com/albertotalavan)  
 ![mail logo](/Assets/mail_squared_logo.png)  ***albertotalavan@gmail.com***  
 
+![AppleBadgeBlackEN](/Assets/AppleStoreBlackEN.png "Workoutter on the Apple Store")
