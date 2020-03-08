@@ -29,7 +29,7 @@ But if you have a different way of do it, do not hesitate to contact me because 
 
 ***Hope you enjoy the app!. And if you do, please leave a comment (I do appreciate it and it is really helpful).***
 
-![AppleBadgeBlackEN](/Assets/AppleStoreBlackEN.png) [**Workoutter**](https://apps.apple.com/es/app/workoutter/id1495092491) 
+![AppleBadgeBlackEN](/Assets/AppleStoreBlackEN.png) [**Workoutter**](https://apps.apple.com/us/app/workoutter/id1495092491) 
 
 ![twitter logo](/Assets/twitter_ios_logo.png)  [**@AlbertoTalavan**](https://twitter.com/albertotalavan)  
 ![mail logo](/Assets/mail_squared_logo.png)  ***albertotalavan@gmail.com***  
