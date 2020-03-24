@@ -1,5 +1,4 @@
 # Workoutter: Take your workouts with you 
-(v1.0.1 waiting for review)
 
 
 ![gif light](/Assets/Gif/iPhoneXR-light.gif)
@@ -9,10 +8,8 @@
 ![iOS 13.0](https://img.shields.io/badge/iOS-13.0-orange)
 ![swift 5](https://img.shields.io/badge/Swift-5-red)
 ![EN](https://img.shields.io/badge/Localizable-es-blue)
-![ES](https://img.shields.io/badge/Localizable-en-blue)  
-
-![v1.0.1](https://img.shields.io/badge/AppleStore-v1.0.1-brightgreen)  
-![v1.1.0](https://img.shields.io/badge/AppleStore-v1.1.0-yellow) ![WaitingRevision](https://img.shields.io/badge/-Waiting4review-yellow)
+![ES](https://img.shields.io/badge/Localizable-en-blue)
+![v1.0.1](https://img.shields.io/badge/AppleStore-v1.0.1-brightgreen)
 
 
 I usually work out and **I was certainly  tired of writing my own workouts (routines, weights...)
