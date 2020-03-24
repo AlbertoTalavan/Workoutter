@@ -1,4 +1,5 @@
-# Workoutter: Take your workouts with you (v1.0.1 waiting for review)
+# Workoutter: Take your workouts with you 
+(v1.0.1 waiting for review)
 
 
 ![gif light](/Assets/Gif/iPhoneXR-light.gif)
