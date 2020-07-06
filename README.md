@@ -35,5 +35,5 @@ But if you have a different way of do it, do not hesitate to contact me because 
 ![AppleBadgeBlackEN](/Assets/AppleStoreBlackEN.png) [**Workoutter**](https://apps.apple.com/us/app/workoutter/id1495092491) 
 
 [![twitter](https://img.shields.io/badge/-@AlbertoTalavan-00ACEE.svg?style=social&logo=twitter)](https://twitter.com/albertotalavan)  
-[![mail](https://img.shields.io/badge/-albertotalavan@gmail.com-00ACEE.svg?style=social&logo=gmail)](https://twitter.com/albertotalavan)
+![mail](https://img.shields.io/badge/-albertotalavan@gmail.com-00ACEE.svg?style=social&logo=gmail)
 
