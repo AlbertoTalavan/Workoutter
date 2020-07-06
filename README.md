@@ -32,7 +32,8 @@ But if you have a different way of do it, do not hesitate to contact me because 
 
 ***Hope you enjoy the app!. And if you do, please leave a comment (I do appreciate it and it is really helpful).***
 
-![AppleBadgeBlackEN](/Assets/AppleStoreBlackEN.png) [**Workoutter**](https://apps.apple.com/us/app/workoutter/id1495092491) 
+[![AppleBadgeBlackEN](/Assets/AppleStoreBlackEN.png)](https://apps.apple.com/us/app/workoutter/id1495092491)  
+
 
 [![twitter](https://img.shields.io/badge/-@AlbertoTalavan-00ACEE.svg?style=social&logo=twitter)](https://twitter.com/albertotalavan)  
 ![mail](https://img.shields.io/badge/-albertotalavan@gmail.com-00ACEE.svg?style=social&logo=gmail)
