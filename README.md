@@ -4,12 +4,12 @@
 ![gif light](/Assets/Gif/iPhoneXR-light.gif)
 ![gif dark](/Assets/Gif/iPhoneXR-dark.gif)
 
+[![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg?longCache=true&style=flat&logo=swift)](https://www.swift.org)
+[![iOS](https://img.shields.io/badge/iOS-13.0+-lightgrey.svg?longCache=true&?style=plastic&logo=apple)](https://developer.apple.com/ios/)
 
-![iOS 13.0](https://img.shields.io/badge/iOS-13.0-orange)
-![swift 5](https://img.shields.io/badge/Swift-5-red)
-![EN](https://img.shields.io/badge/Localizable-es-blue)
-![ES](https://img.shields.io/badge/Localizable-en-blue)
-![v1.0.1](https://img.shields.io/badge/AppleStore-v1.1.0-brightgreen)
+![EN](https://img.shields.io/badge/Localizable-es-blue.svg?longCache=true&style=flat)
+![ES](https://img.shields.io/badge/Localizable-en-blue.svg?longCache=true&style=flat)
+![v1.0.1](https://img.shields.io/badge/AppleStore-v1.1.0-brightgreen.svg?longCache=true&style=flat)
 
 
 I usually work out and **I was certainly  tired of writing my own workouts (routines, weights...)
