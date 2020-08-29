@@ -38,3 +38,33 @@ But if you have a different way of do it, do not hesitate to contact me because 
 **You can reachme at:**
 [![twitter](https://img.shields.io/badge/-@AlbertoTalavan-00ACEE.svg?style=social&logo=twitter)](https://twitter.com/albertotalavan)  
 
+--- 
+
+## Tech notes and History Version:
+**2020/08/29**
+> - Added singleton to store the workouts list
+>   - [x] Implemented in: Workouts View
+>   - [x] Implemented in: Exercise View
+>   - [x] programatic view Add Workout adapted to use it
+>   - [x] programatic view Add Exercise adapted to use it
+>   - [ ] Implemented in: Edit View
+
+
+**2020/03/23**
+> - Preparing to deploy v1.1.0.0 => Cleaning code
+> - some changes during this time:
+>   - workout cell background image now has rounded corners and padding to both (leading and trailing) sides (improve the UI)
+>   - Added "gentle message" when the list of workouts is empty or a workout has no associated exercises yet
+>   - Now each "Day-Muscle group" section in a workout has a different colour
+>   - Swipe right to lock/unlock workouts (if locked, that workout can´t be deleted nor modified)
+>   - Lock/Unlock status is visible due to a "lock" closed/opened at the upper-left corner of each workout
+>   - Custom programatic alert views to notify the different alerts
+>   - Custom, behavioural like alert, views for adding a new workout or editing an existing one
+
+**2019/12/04**
+>- Solved problem with the background images
+>- Implemented Swipe left to delete (entire workouts, exercises)
+
+**2019/11/12**
+>- Initial Commit with this new version
+
