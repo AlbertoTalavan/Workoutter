@@ -40,14 +40,15 @@ But if you have a different way of do it, do not hesitate to contact me because 
 
 --- 
 
-## Tech notes and History Version:
+## History Version and progress:
 **2020/08/29**
-> - Added singleton to store the workouts list
+> - Added a handler to operate with workouts
 >   - [x] Implemented in: Workouts View
 >   - [x] Implemented in: Exercise View
 >   - [x] programatic view Add Workout adapted to use it
 >   - [x] programatic view Add Exercise adapted to use it
->   - [ ] Implemented in: Edit View
+>   - [x] Implemented in: Edit View
+> - Added documentation to this handler
 
 
 **2020/03/23**
