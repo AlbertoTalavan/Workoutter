@@ -41,6 +41,10 @@ But if you have a different way of do it, do not hesitate to contact me because 
 --- 
 
 ## History Version and progress:
+**2020/08/31**
+>- Cleaning code
+
+
 **2020/08/29**
 > - Added a handler to operate with workouts
 >   - [x] Implemented in: Workouts View
