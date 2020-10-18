@@ -4,8 +4,14 @@
 ![gif light](/Assets/Gif/iPhoneXR-light.gif)
 ![gif dark](/Assets/Gif/iPhoneXR-dark.gif)
 
+<p align="center"> <!-- using the assets directory -->
+  <img src="/Assets/Workoutter-banner.png" height="500"/>
+</p>
+
+<!-- 
 [![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg?longCache=true&style=flat&logo=swift)](https://www.swift.org)
 [![iOS](https://img.shields.io/badge/iOS-13.0+-lightgrey.svg?longCache=true&?style=plastic&logo=apple)](https://developer.apple.com/ios/)
+-->
 
 ![EN](https://img.shields.io/badge/Localizable-es-blue.svg?longCache=true&style=flat)
 ![ES](https://img.shields.io/badge/Localizable-en-blue.svg?longCache=true&style=flat)
