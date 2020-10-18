@@ -23,7 +23,7 @@
 
 The app allows you to write whatever the workout you wanna do (because there are not predefined exercises names nor routines),even tracking the weights you use on the previous training sessions (and that's useful for your progression).  
 
-**You will write your routines the way that make more sense to you.**
+You will write your routines the way that make more sense to you.
 
 
 
@@ -31,7 +31,7 @@ The app allows you to write whatever the workout you wanna do (because there are
 
 
 **Stay tunned with us for updates:**
-[![twitter](https://img.shields.io/badge/-@AWorkoutterApp-00ACEE.svg?style=social&logo=twitter)](https://twitter.com/WorkoutterA)  
+[![twitter](https://img.shields.io/badge/-@WorkoutterApp-00ACEE.svg?style=social&logo=twitter)](https://twitter.com/WorkoutterA)  
 
 **Download the app:**
 <div> 
