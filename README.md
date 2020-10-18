@@ -29,11 +29,21 @@ The app allows you to write whatever the workout you wanna do (because there are
 
 ***Hope you enjoy the app!. And if you do, please leave a comment (I do appreciate it and it is really helpful).***
 
-[![AppleBadgeBlackEN](/Assets/AppleStoreBlackEN.png)](https://apple.co/3jRYYDT)  
-
 
 **Stay tunned with us for updates:**
 [![twitter](https://img.shields.io/badge/-@AWorkoutterApp-00ACEE.svg?style=social&logo=twitter)](https://twitter.com/WorkoutterA)  
+
+**Download the app:**
+<div> 
+    <img src="/Assets/QR/workoutter_white.jpg" height="100"/>
+  </p>
+ </div>
+<div>
+  <p><a href="https://apple.co/3jRYYDT"><img src="/Assets/AppleStoreBlackEN.png" width="100"></a>
+       (clickable banner😉)
+  </p>
+</div>
+
 
 --- 
 
